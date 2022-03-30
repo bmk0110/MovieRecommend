@@ -1,17 +1,20 @@
 # 영화추천 웹서비스
 영화 추천 웹 서비스
-##Backend
+## Backend
+```
 $ cd final_api
 $ pip install -r requirements.txt
 $ python manage.py makemigrations
 $ python manage.py migrate
 $ python manage.py runserver
+```
 
-##Frontend
+## Frontend
+```
 $ cd final_vue
 $ npm install
 $ npm run serve
+```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e36d83d-0c2e-4b57-bc15-6ef01b164654/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef372d3c-d465-42a0-a204-cd926026aec1/Untitled.png)
+![1](https://user-images.githubusercontent.com/48609355/160890406-c0e10280-4a38-4288-93e2-52a8e06e43b3.png)
+![2](https://user-images.githubusercontent.com/48609355/160890429-ae45629b-a885-4daa-a2af-3e9df28b7a9d.png)
